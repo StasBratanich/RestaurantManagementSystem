@@ -62,6 +62,6 @@ With this setup, the application can perform the following operations:
 
 ***Receipt***
 
-- Recipet that displays data about the order
+- A form that provides comprehensive information about an order
 
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/2e17101f-db6c-4056-aaf0-88f659850c62)
