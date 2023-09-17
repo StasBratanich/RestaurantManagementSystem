@@ -10,6 +10,15 @@
 
 ## ℹ️ Overview
 
+The Restaurant Management System employs a database structure based on multiple JSON files
+These files serve as data containers for various aspects of restaurant operations, including menu items, customer orders, and user information
+
+With this setup, the application can perform the following operations:
+
+- **Add Data:** Users can add new entries to the database by providing the necessary information
+- **Change Data:** Users have the ability to update existing data within the JSON files
+- **Delete Data:** The application also allows users to remove records as needed
+
 ***Login form***
 
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/abf69a5e-aa13-45dd-928e-5224664a0a02)
