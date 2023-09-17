@@ -54,3 +54,9 @@ With this setup, the application can perform the following operations:
 - Manage the restaurant's inventory with the ability to add, update, and delete products
 
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/a674599c-617b-4e68-be62-64daedcedfb2)
+
+***Menu form***
+- Order and Payment Menu that simplifies the ordering process for both customers and users
+
+![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/1f706438-79e4-4c06-b981-84120f3a0a67)
+
