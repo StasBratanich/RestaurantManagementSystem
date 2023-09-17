@@ -1,0 +1,92 @@
+[
+  {
+    "product_id": "1",
+    "product_name": "coca cola",
+    "type": "Drinks",
+    "stock": 81,
+    "price": 5.0,
+    "status": "Available",
+    "product_image": "file:/C:/My%20Coding/JAVA/RMS%20Project/src/main/resources/com/hit/driver/icons/products/coca%20cola%201.png",
+    "quantity": 0
+  },
+  {
+    "product_id": "4",
+    "product_name": "burger",
+    "type": "Meals",
+    "stock": 69,
+    "price": 45.0,
+    "status": "Available",
+    "product_image": "file:/C:/My%20Coding/JAVA/RMS%20Project/src/main/resources/com/hit/driver/icons/products/burger.png",
+    "quantity": 0
+  },
+  {
+    "product_id": "2",
+    "product_name": "fanta",
+    "type": "Drinks",
+    "stock": 45,
+    "price": 5.0,
+    "status": "Available",
+    "product_image": "file:/C:/My%20Coding/JAVA/RMS%20Project/src/main/resources/com/hit/driver/icons/products/fanta.png",
+    "quantity": 0
+  },
+  {
+    "product_id": "5",
+    "product_name": "water",
+    "type": "Drinks",
+    "stock": 79,
+    "price": 4.0,
+    "status": "Available",
+    "product_image": "file:/C:/My%20Coding/JAVA/RMS%20Project/src/main/resources/com/hit/driver/icons/products/water.png",
+    "quantity": 0
+  },
+  {
+    "product_id": "6",
+    "product_name": "fries",
+    "type": "Meals",
+    "stock": 89,
+    "price": 10.0,
+    "status": "Available",
+    "product_image": "file:/C:/My%20Coding/JAVA/RMS%20Project/src/main/resources/com/hit/driver/icons/products/fries.png",
+    "quantity": 0
+  },
+  {
+    "product_id": "7",
+    "product_name": "pizza",
+    "type": "Meals",
+    "stock": 25,
+    "price": 20.0,
+    "status": "Available",
+    "product_image": "file:/C:/My%20Coding/JAVA/RMS%20Project/src/main/resources/com/hit/driver/icons/products/pizza.png",
+    "quantity": 0
+  },
+  {
+    "product_id": "8",
+    "product_name": "pasta",
+    "type": "Meals",
+    "stock": 60,
+    "price": 35.0,
+    "status": "Available",
+    "product_image": "file:/C:/My%20Coding/JAVA/RMS%20Project/src/main/resources/com/hit/driver/icons/products/pasta.png",
+    "quantity": 0
+  },
+  {
+    "product_id": "9",
+    "product_name": "wine",
+    "type": "Drinks",
+    "stock": 30,
+    "price": 15.0,
+    "status": "Available",
+    "product_image": "file:/C:/My%20Coding/JAVA/RMS%20Project/src/main/resources/com/hit/driver/icons/products/wine.png",
+    "quantity": 0
+  },
+  {
+    "product_id": "3",
+    "product_name": "salad",
+    "type": "Meals",
+    "stock": 55,
+    "price": 25.0,
+    "status": "Available",
+    "product_image": "file:/C:/My%20Coding/JAVA/RMS%20Project/src/main/resources/com/hit/driver/icons/products/salad.png",
+    "quantity": 0
+  }
+]
