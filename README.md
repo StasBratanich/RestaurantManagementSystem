@@ -21,5 +21,7 @@
 
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/7a619c53-1a2e-461d-ba44-c31d71fb8f62)
 
-- Forgot password, the user can restore an account
+***Forgot password form***
+- the user can restore an account
+
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/f2346110-3da8-4af7-840e-06da61726a97)
