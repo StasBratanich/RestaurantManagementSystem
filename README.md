@@ -58,5 +58,10 @@ With this setup, the application can perform the following operations:
 ***Menu form***
 - Order and Payment Menu that simplifies the ordering process for both customers and users
 
-![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/1f706438-79e4-4c06-b981-84120f3a0a67)
+![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/949cb5c6-5f3f-4004-8c45-5560a20f0ec8)
 
+***Receipt***
+
+- Recipet that displays data about the order
+
+![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/2e17101f-db6c-4056-aaf0-88f659850c62)
