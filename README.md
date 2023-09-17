@@ -27,6 +27,6 @@
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/f2346110-3da8-4af7-840e-06da61726a97)
 
 ***Dashboard from***
-- Display sum of income and each purchase made by a client in a dot graph
+- Display sum of income and number of costumers, each purchase made by a client is displayed in a graph
 
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/e4bd2c6e-d4a5-4f85-8ed4-abc799500219)
