@@ -10,7 +10,7 @@
 
 ## 📌 Project Status: Incomplete
 
-This project is currently in an active development phase and is not considered complete. There are essential components that still require implementation:
+This project is currently in an active development phase and is **not considered complete**. There are essential components that still require implementation:
 
 Server-side Integration: The server-side functionality, including setting up the server architecture, defining APIs, and handling data communication between the client-side and server-side components, is currently in progress.
 
