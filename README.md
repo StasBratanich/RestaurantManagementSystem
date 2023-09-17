@@ -8,3 +8,14 @@
 
 ***
 
+## ℹ️ Overview
+
+***Login Form***
+![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/abf69a5e-aa13-45dd-928e-5224664a0a02)
+
+- All the users data is stored in a JSON file witch can update, erase or change users
+- Create new account, the user most register to the application before logging in
+- ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/7a619c53-1a2e-461d-ba44-c31d71fb8f62)
+
+- Forgot password, the user can restore an account
+![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/f2346110-3da8-4af7-840e-06da61726a97)
