@@ -65,3 +65,9 @@ With this setup, the application can perform the following operations:
 - A form that provides comprehensive information about an order
 
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/2e17101f-db6c-4056-aaf0-88f659850c62)
+
+***
+
+✉️ [bstasb@gmail.com](url)  
+💿 https://github.com/StasBratanich  
+🖥️ https://www.linkedin.com/in/stas-bratanich-computer-science/  
