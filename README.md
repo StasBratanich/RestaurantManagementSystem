@@ -10,7 +10,7 @@
 
 ## ℹ️ Overview
 
-The Restaurant Management System employs a database structure based on multiple JSON files
+The Restaurant Management System employs a database structure based on multiple **JSON files**
 These files serve as data containers for various aspects of restaurant operations, including menu items, customer orders, and user information
 
 With this setup, the application can perform the following operations:
