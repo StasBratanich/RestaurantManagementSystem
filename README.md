@@ -17,6 +17,7 @@
 - All users data is stored in a JSON files witch can **update, erase or restore** users
 ***Create new account form***
 - the user most register to the application before logging in
+
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/7a619c53-1a2e-461d-ba44-c31d71fb8f62)
 
 - Forgot password, the user can restore an account
