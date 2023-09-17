@@ -38,7 +38,7 @@ With this setup, the application can perform the following operations:
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/f2346110-3da8-4af7-840e-06da61726a97)
 
 ***Dashboard from***
-- Display sum of income and number of customers, each purchase made by a customer is displayed in a graph
+- Display sum of income and number of customers, each purchase made by a customer is displayed as a dot in a bar chart
 
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/e4bd2c6e-d4a5-4f85-8ed4-abc799500219)
 
