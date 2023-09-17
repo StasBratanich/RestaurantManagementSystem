@@ -8,6 +8,14 @@
 
 ***
 
+## 📌 Project Status: Incomplete
+
+This project is currently in an active development phase and is not considered complete. There are essential components that still require implementation:
+
+Server-side Integration: The server-side functionality, including setting up the server architecture, defining APIs, and handling data communication between the client-side and server-side components, is currently in progress.
+
+Sorting Algorithms Integration: Sorting algorithms have been developed but have not yet been integrated into the system. These algorithms will play a crucial role in sorting and organizing data within our JSON files to enhance efficiency and usability
+
 ## ℹ️ Overview
 
 The Restaurant Management System employs a database structure based on multiple **JSON files**
