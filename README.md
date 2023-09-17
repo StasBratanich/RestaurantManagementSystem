@@ -32,6 +32,6 @@
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/e4bd2c6e-d4a5-4f85-8ed4-abc799500219)
 
 ***Inventory form***
-- Managing the restaurant's inventory with the option to add, update, and delete products
+- Manage the restaurant's inventory with the ability to add, update, and delete products
 
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/a674599c-617b-4e68-be62-64daedcedfb2)
