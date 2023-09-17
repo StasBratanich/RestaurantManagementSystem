@@ -19,6 +19,8 @@ With this setup, the application can perform the following operations:
 - **Change Data:** Users have the ability to update existing data within the JSON files
 - **Delete Data:** The application also allows users to remove records as needed
 
+## 🌟 Highlights
+
 ***Login form***
 
 ![image](https://github.com/StasBratanich/RestaurantManagementSystem/assets/83605505/abf69a5e-aa13-45dd-928e-5224664a0a02)
