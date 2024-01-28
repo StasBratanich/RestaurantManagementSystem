@@ -1,6 +1,9 @@
 <h1 align="center">RestaurantManagementSystem</h1>
 
 ***
+<p align="center">Hebrew explenation video</p>
+<p align="center">https://www.youtube.com/watch?v=xbGFyxBOv_Q</p>
+
 
 <p align="center">Welcome to the Restaurant Management System project!</p>
 <p align="center">This application is designed to streamline and simplify restaurant operations</p>
